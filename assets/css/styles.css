@@ -1,0 +1,18 @@
+.img-fluid {
+  position: absolute;
+  align-self: right;
+  /*justify-content: right;*/
+  /*justify-items: right;*/
+  /*justify-self: left;*/
+}
+
+img {
+  /*position: absolute;*/
+  z-index: 999;
+}
+
+.d-xl-flex.justify-content-center.mx-auto.justify-content-xl-center {
+  z-index: 999;
+  /*top: 1800px;*/
+}
+
